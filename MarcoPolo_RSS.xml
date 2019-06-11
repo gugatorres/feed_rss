@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
 <channel>
@@ -15,6 +15,15 @@
     <link>https://www.marcopolo.com.br/marcopolo/comunicacao/noticias/viacao-atalaia-recebe-28-novos-onibus-marcopolo-torino</link>
     <description>Operadora faz a sua primeira aquisicao de onibus Marcopolo</description>
   </item>
+  <item>
+    <title>MARCOPOLO MANTÉM RITMO DE CRESCIMENTO NO PRIMEIRO TRIMESTRE DE 2019</title>
+    <link>https://www.marcopolo.com.br/marcopolo/comunicacao/noticias/marcopolo-mantem-ritmo-de-crescimento-no-primeiro-trimestre-de-2019</link>
+    <description>Fabricante registrou aumento de 17,5% na receita líquida em relação a 2018</description>
+    <image>
+      <url>https://www.marcopolo.com.br/marcopolo/image/resize?w=1024&h=1024&src=ezpath/noticias/marcopolo-new-g7-1-credito-ronaldo-santos.jpg</url>
+      <title>MARCOPOLO MANTÉM RITMO DE CRESCIMENTO NO PRIMEIRO TRIMESTRE DE 2019</title>
+      <link>https://www.marcopolo.com.br/marcopolo/comunicacao/noticias/marcopolo-mantem-ritmo-de-crescimento-no-primeiro-trimestre-de-2019</link>
+    </image>
+  </item>
 </channel>
-
 </rss>
